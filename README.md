@@ -1,6 +1,6 @@
 # Mars Rover Application
 ## Overview
-The Mars Rover Application simulates the operations of a Mars rover navigating a grid-based terrain. The application allows users to define a grid, place obstacles, and control a rover using simple commands. This project demonstrates the rover's movement capabilities and its ability to handle obstacles on a grid.
+The Mars Rover Application developed using **Java** simulates the operations of a Mars rover navigating a grid-based terrain. The application allows users to define a grid, place obstacles, and control a rover using simple commands. This project demonstrates the rover's movement capabilities and its ability to handle obstacles on a grid.
 
 ## Features
 
