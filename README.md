@@ -57,4 +57,4 @@ Here’s an example of how to use the application:
 
 ## Documentation
 
-The Javadoc for this project can be found file [here](https://github.com/SriKarudaMega/MarsRoverApplication.git)
+The Javadoc for this project can be found file [here](index.html)
